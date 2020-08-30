@@ -1,0 +1,50 @@
+The title of the movie is The Shawshank Redemption , Rating of this movie is 9.2, Year of release is 1994
+The title of the movie is The Godfather , Rating of this movie is 9.1, Year of release is 1972
+The title of the movie is The Godfather: Part II , Rating of this movie is 9.0, Year of release is 1974
+The title of the movie is The Dark Knight , Rating of this movie is 9.0, Year of release is 2008
+The title of the movie is 12 Angry Men , Rating of this movie is 8.9, Year of release is 1957
+The title of the movie is Schindler's List , Rating of this movie is 8.9, Year of release is 1993
+The title of the movie is The Lord of the Rings: The Return of the King , Rating of this movie is 8.9, Year of release is 2003
+The title of the movie is Pulp Fiction , Rating of this movie is 8.8, Year of release is 1994
+The title of the movie is The Good, the Bad and the Ugly , Rating of this movie is 8.8, Year of release is 1966
+The title of the movie is  The Lord of the Rings: The Fellowship of the Ring , Rating of this movie is 8.8, Year of release is 2001
+The title of the movie is  Fight Club , Rating of this movie is 8.8, Year of release is 1999
+The title of the movie is  Forrest Gump , Rating of this movie is 8.8, Year of release is 1994
+The title of the movie is  Inception , Rating of this movie is 8.7, Year of release is 2010
+The title of the movie is  Star Wars: Episode V - The Empire Strikes Back , Rating of this movie is 8.7, Year of release is 1980
+The title of the movie is  The Lord of the Rings: The Two Towers , Rating of this movie is 8.7, Year of release is 2002
+The title of the movie is  The Matrix , Rating of this movie is 8.6, Year of release is 1999
+The title of the movie is  Goodfellas , Rating of this movie is 8.6, Year of release is 1990
+The title of the movie is  One Flew Over the Cuckoo's Nest , Rating of this movie is 8.6, Year of release is 1975
+The title of the movie is  Seven Samurai , Rating of this movie is 8.6, Year of release is 1954
+The title of the movie is  Se7en , Rating of this movie is 8.6, Year of release is 1995
+The title of the movie is  Life Is Beautiful , Rating of this movie is 8.6, Year of release is 1997
+The title of the movie is  City of God , Rating of this movie is 8.6, Year of release is 2002
+The title of the movie is  The Silence of the Lambs , Rating of this movie is 8.6, Year of release is 1991
+The title of the movie is  It's a Wonderful Life , Rating of this movie is 8.6, Year of release is 1946
+The title of the movie is  Star Wars: Episode IV - A New Hope , Rating of this movie is 8.6, Year of release is 1977
+The title of the movie is  Saving Private Ryan , Rating of this movie is 8.5, Year of release is 1998
+The title of the movie is  Spirited Away , Rating of this movie is 8.5, Year of release is 2001
+The title of the movie is  The Green Mile , Rating of this movie is 8.5, Year of release is 1999
+The title of the movie is  Parasite , Rating of this movie is 8.5, Year of release is 2019
+The title of the movie is  Interstellar , Rating of this movie is 8.5, Year of release is 2014
+The title of the movie is  Hamilton , Rating of this movie is 8.5, Year of release is 2020
+The title of the movie is  Léon: The Professional , Rating of this movie is 8.5, Year of release is 1994
+The title of the movie is  The Usual Suspects , Rating of this movie is 8.5, Year of release is 1995
+The title of the movie is  Harakiri , Rating of this movie is 8.5, Year of release is 1962
+The title of the movie is  The Lion King , Rating of this movie is 8.5, Year of release is 1994
+The title of the movie is  Back to the Future , Rating of this movie is 8.5, Year of release is 1985
+The title of the movie is  The Pianist , Rating of this movie is 8.5, Year of release is 2002
+The title of the movie is  Terminator 2: Judgment Day , Rating of this movie is 8.5, Year of release is 1991
+The title of the movie is  American History X , Rating of this movie is 8.5, Year of release is 1998
+The title of the movie is  Modern Times , Rating of this movie is 8.5, Year of release is 1936
+The title of the movie is  Psycho , Rating of this movie is 8.5, Year of release is 1960
+The title of the movie is  Gladiator , Rating of this movie is 8.5, Year of release is 2000
+The title of the movie is  City Lights , Rating of this movie is 8.5, Year of release is 1931
+The title of the movie is  The Departed , Rating of this movie is 8.5, Year of release is 2006
+The title of the movie is  The Intouchables , Rating of this movie is 8.5, Year of release is 2011
+The title of the movie is  Whiplash , Rating of this movie is 8.5, Year of release is 2014
+The title of the movie is  The Prestige , Rating of this movie is 8.5, Year of release is 2006
+The title of the movie is  Grave of the Fireflies , Rating of this movie is 8.5, Year of release is 1988
+The title of the movie is  Once Upon a Time in the West , Rating of this movie is 8.5, Year of release is 1968
+The title of the movie is  Casablanca , Rating of this movie is 8.4, Year of release is 1942
